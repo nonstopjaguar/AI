@@ -15,7 +15,7 @@ import sys
 
 engine = pyttsx3.init('sapi5')
 
-client = wolframalpha.Client('Your_App_ID')
+client = wolframalpha.Client('2HVYJP-2W67929PAQ')
 
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[len(voices)-1].id)
