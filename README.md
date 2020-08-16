@@ -11,4 +11,8 @@ pip install gmplot
 
 pip install requests
 
+pip install wolframalpha api
+
 just copy commands and make your own!
+
+make wolframalpha id and put your id on the code
